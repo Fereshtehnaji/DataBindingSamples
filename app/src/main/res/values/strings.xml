@@ -1,3 +1,23 @@
 <resources>
     <string name="app_name">DataBindingSamples</string>
+    <string name="actor1_name">Peyman Maadi</string>
+    <string name="actor1_bio">Payman Maādi, also known as Peyman Moādi,
+        is an Iranian-American actor, screenwriter and director.\n
+        He is best known for starring in the films A Separation and About Elly by
+        director Asghar Farhadi and Last Knights with Morgan Freeman and the
+        independent drama film Camp X-Ray.\nFor his role in A Separation,
+        as part of ensemble he won the Silver Bear for Best Actor at 61st Berlin
+        International Film Festival in 2011.</string>
+    <string name="actor2_name">Golshifteh Farahani</string>
+    <string name="actor2_bio">Golshifteh Farahani is an Iranian-French actress and
+        singer.\nShe has appeared in 35 films, many of which have received
+        international recognition.\nShe was nominated for the Most Promising Actress
+        Award for The Patience Stone at the 2014Cesar Awards in France, and won
+        the Best Actress Award for Boutique from the 26th NantesThree Continents
+        Festival (France).\nIn recent years, she has had prominent roles in movies
+        by well-known Iranian and international directors,including Asghar Farhadi,
+        Bahman Ghobadi, Rasool Mollagholipoor, Jim Jarmusch, Ridley Scott,Joachim
+        Rønning and Espen Sandberg. </string>
+
+
 </resources>

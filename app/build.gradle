@@ -1,6 +1,11 @@
 apply plugin: 'com.android.application'
 
 android {
+
+    buildFeatures {
+        dataBinding true
+    }
+
     compileSdkVersion 29
     buildToolsVersion "30.0.0"
 
